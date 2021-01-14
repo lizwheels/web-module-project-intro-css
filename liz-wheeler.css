@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap'); /*font-family: Roboto Mono*/
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap'); /*font-family: Chelsea Market*/
+
+
+nav a1{
+    display:inline-block;
+    text-align:center;
+    margin-left: 100px;
+    background-color: #FF764E;
+    color:white;
+    padding:10px;
+    font-family:roboto mono;
+    border-radius:10px;
+    margin-top:20px;
+    font-size:12px;
+    
+}
+nav a2{
+    display:inline-block;
+    text-align:center;
+    margin-left: 100px;
+    background-color:#5ED3EB;
+    color:white;
+    padding:10px;
+    font-family:roboto mono;
+    border-radius:10px;
+    font-size:12px;
+    
+}
+nav a3{
+    display:inline-block;
+    text-align:center;
+    margin-left: 100px;
+    margin-right:100px;
+    color:white;
+    background-color:#FFCD69;
+    padding:10px;
+    font-family: roboto mono;
+    border-radius:10px;
+    
+}
+
+
+h1{
+    font-family: Chelsea Market;
+    text-align:center;
+    
+}
+p1{
+  font-family: roboto mono;
+    text-align:center;
+    display:block;
+    font-size: 12px;
+   
+}
+p2{
+    text-align:center;
+    font-family: roboto mono;
+    display: block;
+    font-size:12px;
+    
+}
+.container {
+    font-family: roboto mono;
+    font-size:12px;
+    background:#DDB9A3;
+    color:white;
+    text-align:center;
+    margin: 20px;
+    padding-bottom: 5px;
+    
+ 
+}
+div1{
+     font-family: roboto mono;
+    text-align: center;
+    font-size:10px;
+    display:block;
+    
+ 
+}
+
+img {
+    width:10%;
+    display:block;
+   
+}
+.footer{
+    background-color:#F9E7DC;
+    padding:10px;
+    margin-bottom:0;
+    
+}
+}
